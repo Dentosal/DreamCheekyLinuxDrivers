@@ -1,2 +1,4 @@
-# DreamCheekyLinuxDrivers
-Linux drivers for Dream Cheeky drivers written in C
+# Dream Cheeky Linux Drivers
+
+Linux drivers for Dream Cheeky devices written in C.
+MIT licenced.

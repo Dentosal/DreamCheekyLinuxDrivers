@@ -1,0 +1,2 @@
+ACTION=="add", ATTRS{idVendor}=="1d34", ATTRS{idProduct}=="000d", SYMLINK+="big_red_button", MODE="0666"
+
